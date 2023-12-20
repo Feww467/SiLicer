@@ -1,4 +1,4 @@
-# Vi3w3r
+# SiLicer
 Post processing program for GCODE
 Inspired by @CNCkitchen https://www.youtube.com/watch?v=-wjE8eDiKWg 
 
